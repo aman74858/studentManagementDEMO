@@ -1,0 +1,3 @@
+101, Aman, CSE
+102, Rahul, BSc
+103, Priya, ECE
